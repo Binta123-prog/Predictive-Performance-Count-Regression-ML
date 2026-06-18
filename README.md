@@ -1,5 +1,4 @@
-# Predictive Performance of Count Regression and Machine Learning Models
-
+# A Comparative Study on Predictive Performance of Some Advanced Count Regression Models and Machine Learning Models
 ## Author
 
 Binta Saji John
